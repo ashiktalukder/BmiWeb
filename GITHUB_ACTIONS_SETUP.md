@@ -1,4 +1,4 @@
-# GitHub Actions CI/CD Setup Guide --- 
+# GitHub Actions CI/CD Setup Guide --- --
 
 This guide explains how to configure GitHub Actions for automated deployment of the BMI Health Tracker application to your AWS EC2 server.
 
